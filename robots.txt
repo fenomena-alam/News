@@ -1,0 +1,4 @@
+
+User-agent: *
+Allow: /
+Sitemap: https://fenomena-alam.github.io/News/sitemap.xml
